@@ -125,9 +125,13 @@
     src: src,
     delayToFade: 3000,
     width: 1280,
-    height: 750,
+    height: 800,
     // autoplay: true,
-
+    //loop: true,
+    scaleMode: 'stretch',
+    posterScaleMode: 'stretch',
+    automaticFullscreenOnLandscape: true,
+    
     contentMetadata: {
       poster: ['https://i.ibb.co/MPDKMn9/hello.jpg']
     }
