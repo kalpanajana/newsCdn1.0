@@ -53,7 +53,7 @@
     src8.hls = 'https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8';
     src9.hls = 'https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8';
     src10.hls = 'https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8';
-    src11.hls = 'https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/6737f9e33c8a4fed94b7fce2feeb9565/index.m3u8?hdnts=st=1620639284~exp=1620642284~acl=/out/v1/6737f9e33c8a4fed94b7fce2feeb9565/index.m3u8*~hmac=4e2a7249a33753ca45aa6ab94576c237704f37f4c508366f722e3baeecfa323a';
+    src11.hls = 'http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8';
     src12.hls = 'https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1616602810~exp=1616605810~acl=/*~hmac=6cc6f28f8958231bbeb62a9448758abd6291aee1ec44a6881caa91d04deb0709';
     isHls = true;
   } else if (document.getElementById('setSrcDash1')) {
