@@ -53,7 +53,7 @@
     src8.hls = 'https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8';
     src9.hls = 'https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8';
     src10.hls = 'https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8';
-    src11.hls = 'http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8';
+    src11.hls = 'http://103.217.221.64/snehjiotv/snehjioo.php?c=And_TV_HD&q=800&e=junk.m3u8';
     src12.hls = 'https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1616602810~exp=1616605810~acl=/*~hmac=6cc6f28f8958231bbeb62a9448758abd6291aee1ec44a6881caa91d04deb0709';
     isHls = true;
   } else if (document.getElementById('setSrcDash1')) {
